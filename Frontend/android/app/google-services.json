@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "619574861990",
+    "project_id": "vervi-be518",
+    "storage_bucket": "vervi-be518.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619574861990:android:7b9eae8829a971fba91467",
+        "android_client_info": {
+          "package_name": "in.vervi.app.vervi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619574861990-vgmrv3bk2chauuuuue6676a84n6ukkjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.vervi.app.vervi",
+            "certificate_hash": "7e00756fa5e21a7461368c12fc179d8999494bdd"
+          }
+        },
+        {
+          "client_id": "619574861990-d9of73dirlqu08jagupd4dme1cll9pn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdHE-l0b6WnePTiUB7qkAhBajze9kobHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619574861990-d9of73dirlqu08jagupd4dme1cll9pn8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "619574861990-1fdqull6jth55r7vmo0be6bt4oeeuu10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.vervi.app.vervi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
