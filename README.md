@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # UrbanEye
-=======
+
 
 <!-- Banner -->
 <p align="center">
