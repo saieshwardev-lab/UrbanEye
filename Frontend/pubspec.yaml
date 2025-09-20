@@ -1,0 +1,35 @@
+name: urban_eye
+description: A Flutter app for reporting and tracking city incidents
+publish_to: 'none' # not publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # For formatting times/dates like "3h ago"
+  intl: ^0.20.2
+
+  cupertino_icons: ^1.0.8
+  camera: ^0.11.2
+  image_picker: ^1.2.0
+  path_provider: ^2.0.15
+  permission_handler: ^12.0.1
+  path: ^1.8.3
+  image: ^4.0.17
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  # if you want to include images or logos later
+  assets:
+    - assets/images/
